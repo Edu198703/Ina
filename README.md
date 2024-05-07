@@ -1,0 +1,2 @@
+# Ina
+Miner 1 
